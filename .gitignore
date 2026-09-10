@@ -1,0 +1,7 @@
+data/
+checkpoints/
+outputs/
+*.csv
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
